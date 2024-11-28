@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsManishKarki
-- 👀 I’m interested in Web Development and AI.
+- 👀 I’m interested in Web Development.
 - 🌱 Currently i am a LARAVEL web developer.
-- 💞️ I’m looking to collaborate on Real Time Projects.
+- 💞️ I’m looking to collaborate on Real-Time Projects.
 - 📫 How to reach me itsmanishkarki@gmail.com
 
 <!---
